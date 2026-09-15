@@ -17,7 +17,7 @@ export function Brand() {
       <span className="grid size-9 place-items-center rounded-full bg-primary text-primary-foreground transition-transform duration-500 group-hover:rotate-45">
         <span className="size-3 rounded-full border-2 border-current" />
       </span>
-      <span className="font-display text-xl font-semibold">ONDA<span className="text-primary">°</span></span>
+      <span className="font-display text-xl font-semibold">MindLoom<span className="text-primary">°</span></span>
     </Link>
   );
 }
@@ -69,7 +69,7 @@ export function SiteFooter() {
           </div>
         </div>
         <div className="mt-12 flex flex-col gap-3 border-t border-ink-line pt-6 text-xs text-ink-muted sm:flex-row sm:justify-between">
-          <p>© 2026 Onda Studio. Crafted with intent.</p><p>Small team · Big care · Global reach</p>
+          <p>© 2026 MindLoom Studio. Crafted with intent.</p><p>Small team · Big care · Global reach</p>
         </div>
       </div>
     </footer>

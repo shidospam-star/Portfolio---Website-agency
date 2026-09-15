@@ -23,8 +23,8 @@ export const packages = [
 
 export const testimonials = [
   { quote: "Mindloom gave our business the confidence of a national brand without losing what makes us local.", name: "Arun K G", role: "Founder, LearnGrid." },
-  { quote: "The process was clear, considered and genuinely collaborative. Our enquiries changed almost overnight.", name: "Jon Bell", role: "Director, Atelier North" },
-  { quote: "They understood the feeling we wanted before we could articulate it—and made the site perform, too.", name: "Amara Lewis", role: "Founder, Alba Botanics" },
+  { quote: "The process was clear, considered and genuinely collaborative. Our enquiries changed almost overnight.", name: "Aravind", role: "Director, LearnGrid" },
+  { quote: "They understood the feeling we wanted before we could articulate it—and made the site perform, too.", name: "Madhavan", role: "Founder, Judy&co" },
 ];
 
 export const pageMeta = (title: string, description: string, path: string) => ({

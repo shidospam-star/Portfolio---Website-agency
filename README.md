@@ -19,6 +19,11 @@ npm run preview
 Run `npm run build` before `npm run preview`. The preview command uses Nitro to serve the
 Netlify-targeted production build locally.
 
+## Lovable project
+
+This repository is also connected to the [Lovable editor](https://lovable.dev/projects/b511b7e0-2641-4c1f-acde-8ef01faa5df1).
+Changes pushed to `main` can sync to that project.
+
 ## Production site URL and SEO
 
 Set `VITE_SITE_URL` to the production site origin before building, for example
